@@ -1,2 +1,6 @@
 # ignore Word documents
 *.docx
+
+# ignore support directory
+support/
+
