@@ -1,0 +1,3 @@
+[submodule "ThinkPythonSolutions"]
+	path = ThinkPythonSolutions
+	url = https://github.com/AllenDowney/ThinkPythonSolutions
